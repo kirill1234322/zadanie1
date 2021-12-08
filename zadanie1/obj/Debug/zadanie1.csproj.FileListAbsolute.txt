@@ -1,0 +1,8 @@
+C:\Users\310-04\Desktop\zadanie1\bin\Debug\zadanie1.exe.config
+C:\Users\310-04\Desktop\zadanie1\bin\Debug\zadanie1.exe
+C:\Users\310-04\Desktop\zadanie1\bin\Debug\zadanie1.pdb
+C:\Users\310-04\Desktop\zadanie1\obj\Debug\zadanie1.csproj.AssemblyReference.cache
+C:\Users\310-04\Desktop\zadanie1\obj\Debug\zadanie1.csproj.SuggestedBindingRedirects.cache
+C:\Users\310-04\Desktop\zadanie1\obj\Debug\zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\310-04\Desktop\zadanie1\obj\Debug\zadanie1.exe
+C:\Users\310-04\Desktop\zadanie1\obj\Debug\zadanie1.pdb
